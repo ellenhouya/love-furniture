@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Queen Panel Bed",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "King Panel Bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Single Panel Bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Twin Panel Bed",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fridge",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Dresser",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Couch",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Table",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "images/product-8.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Dining Table in Walnut Wood",
+        "price": 53.99,
+        "image": { "fields": { "file": { "url": "images/product-9.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "White Dining Table",
+        "price": 43.99,
+        "image": { "fields": { "file": { "url": "images/product-10.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Stainless Steel Fridge",
+        "price": 333.99,
+        "image": { "fields": { "file": { "url": "images/product-11.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "black chair",
+        "price": 23.99,
+        "image": { "fields": { "file": { "url": "images/product-12.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Kitchen Countertops",
+        "price": 599.99,
+        "image": { "fields": { "file": { "url": "images/product-13.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "3PC Dining Set",
+        "price": 399.99,
+        "image": { "fields": { "file": { "url": "images/product-14.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "4PC Dining Set",
+        "price": 629.99,
+        "image": { "fields": { "file": { "url": "images/product-15.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Floral Accent Lounge Chair",
+        "price": 199.99,
+        "image": { "fields": { "file": { "url": "images/product-16.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Under Sink Organizer",
+        "price": 489.99,
+        "image": { "fields": { "file": { "url": "images/product-17.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "Bed Sets",
+        "price": 259.99,
+        "image": { "fields": { "file": { "url": "images/product-18.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "Kitchen Storage Cabinet",
+        "price": 759.99,
+        "image": { "fields": { "file": { "url": "images/product-19.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "Off-Whiet Couch",
+        "price": 259.99,
+        "image": { "fields": { "file": { "url": "images/product-20.jpg" } } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LOVE FURNITURE</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+      integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="images/sofa.svg" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- nav -->
+      <nav class="navbar">
+        <div class="navItemCont">
+          <i class="fas fa-home"></i>
+          <h1>LOVE<span class="furniture-text">FURNITURE</span></h1>
+          <span class="cartAndCounter">
+            <i class="fas fa-shopping-cart"></i>
+            <span class="counter">0</span>
+          </span>
+        </div>
+      </nav>
+
+      <!-- shopping cart -->
+      <div class="shoppingCart">
+        <i class="fas fa-window-close"></i>
+        <p class="yourCart">Your Cart</p>
+        <div class="allCartItemsCon"></div>
+        <p class="yourTotal">Your Total: <span class="totalText">$0</span></p>
+        <button class="clearBtn">CLEAR CART</button>
+      </div>
+
+      <!-- showcase -->
+      <main class="showCase">
+        <div class="furnitureColAndBtn">
+          <h1 class="furnitureCol">FURNITURE COLLECTION</h1>
+          <button class="shopNow">SHOP NOW</button>
+        </div>
+      </main>
+
+      <!-- arrow -->
+      <i class="far fa-arrow-alt-circle-down arrowBtn"></i>
+
+      <!-- product title -->
+      <div class="ourPro">
+        Our Products: <span class="item-quantity"></span>
+      </div>
+
+      <div class="search-section">
+        <div class="search-result">
+          Search Results: <span></span> product(s)
+        </div>
+        <div class="icon-searchField">
+          <input class="search-input" type="text" placeholder="search term" />
+          <button class="x-btn">X</button>
+        </div>
+
+        <div class="dropdown-menu"></div>
+      </div>
+
+      <!-- product images, names and prices -->
+      <div class="productsCon"></div>
+
+      <div class="newsLetter">
+        <h2>SIGN UP FOR OUR NEWSLETTER</h2>
+        <input type="text" placeholder="Enter your email here" />
+      </div>
+
+      <ul>
+        <li>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+        </li>
+
+        <li>
+          <a href="#"><i class="fab fa-facebook-square"></i></a>
+        </li>
+
+        <li>
+          <a href="#"><i class="fab fa-twitter-square"></i></a>
+        </li>
+
+        <li>
+          <a href="#"><i class="fab fa-youtube-square"></i></a>
+        </li>
+      </ul>
+
+      <!-- footer -->
+      <div class="footerCon">
+        <footer>
+          <div class="footerbox">
+            <p>Company</p>
+            <div class="companybox">
+              <div class="pitems">About</div>
+              <div class="pitems">Blog</div>
+              <div class="pitems">Carrers</div>
+            </div>
+          </div>
+
+          <div class="footerbox">
+            <p>Products</p>
+            <div class="productsbox">
+              <div class="pitems">Beds</div>
+              <div class="pitems">Tables</div>
+              <div class="pitems">Fridges</div>
+            </div>
+          </div>
+
+          <div class="footerbox">
+            <p>Learn More</p>
+            <div class="learnmorebox">
+              <div class="pitems">Events</div>
+              <div class="pitems">Clients</div>
+              <div class="pitems">Warranties</div>
+            </div>
+          </div>
+
+          <div class="footerbox">
+            <p>Support</p>
+            <div class="supportbox">
+              <div class="pitems">Help</div>
+              <div class="pitems">QA</div>
+              <div class="pitems">Contact</div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <script src="storage.js"></script>
+    <script src="furniture.js"></script>
+    <script src="ui.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
